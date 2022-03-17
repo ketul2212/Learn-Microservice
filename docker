@@ -37,4 +37,8 @@ For Project:-
 	2.) docker build -f Dockerfile -t currency-exchange-service .
 	3.) docker run -p 8000:8085 currency-exchange-service
 	
+	using docker-compose
+		1.) docker-compose up
+		2.) docker-compose down
+	
 	
